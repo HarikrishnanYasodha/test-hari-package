@@ -1,1 +1,1 @@
-# test-hari-package
+# hari-test-package
